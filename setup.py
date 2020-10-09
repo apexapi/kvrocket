@@ -3,7 +3,7 @@ Setup.py for KVRocket
 """
 
 from setuptools import setup
-version = "0.0.0-1" #NOTE: please blame pypi for the weird version numbers...
+version = "0.0.0-2" #NOTE: please blame pypi for the weird version numbers...
 
 setup(
     name='kvrocket',
